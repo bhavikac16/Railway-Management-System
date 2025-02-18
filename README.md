@@ -7,7 +7,7 @@ A simple railway booking system where users can **register, search trains, check
 ##  Setup & Installation
 
 ### 1️. Clone the Repository
-git clone https://github.com/yourusername/railway-management-system.git cd railway-management-system
+git clone https://github.com/bhavikac16/Railway-Management-System.git cd railway-management-system
 
 shell
 Copy
